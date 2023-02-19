@@ -14,7 +14,8 @@ nomi-ceu comes with compatibility scripts for the following mods. You can drop t
 - [AE2 Fluid Crafting Rework](https://www.curseforge.com/minecraft/mc-mods/ae2-fluid-crafting-rework)  
 - [Compact Machines](https://www.curseforge.com/minecraft/mc-mods/compact-machines)  
 - [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)  
-- [Lazy AE2](https://www.curseforge.com/minecraft/mc-mods/lazy-ae2)  
+- [Lazy AE2](https://www.curseforge.com/minecraft/mc-mods/lazy-ae2)
+- [AE Additions (Extra Cells 2 Fork)](https://www.curseforge.com/minecraft/mc-mods/ae-additions-extra-cells-2-fork)
 - [Project Red - Illumination](https://www.curseforge.com/minecraft/mc-mods/project-red-illumination)    
 
 \* Note: If you are adding these mods via the CurseForge app, remove the copy of non-Extended Life AE2 it might automatically download.
